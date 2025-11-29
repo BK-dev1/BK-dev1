@@ -3,6 +3,7 @@
 **`AI Engineering Student & Machine Learning Enthusiast`**
 
 [![Email](https://img.shields.io/badge/📧-Email-D14836?style=for-the-badge)](mailto:belkabk5@gmail.com)
+[![GitHub](https://img.shields.io/badge/💻-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BK-dev1)
 
 ---
 
@@ -48,9 +49,14 @@ I'm a passionate **third-year AI Engineering student** deeply fascinated by the 
 
 <div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BK-dev1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+<!-- Primary Stats -->
+![Belkacem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BK-dev1&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BK-dev1&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BK-dev1&layout=compact&theme=radical&hide_border=true)
+
+<!-- Streak Stats as Backup -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=BK-dev1&theme=radical&hide_border=true)
 
 </div>
 
@@ -87,7 +93,6 @@ I'm a passionate **third-year AI Engineering student** deeply fascinated by the 
 
 ---
 
-
 ## 🤝 Let's Collaborate!
 
 I'm always excited to work on interesting AI projects and research. Feel free to reach out if you're working on:
@@ -103,11 +108,12 @@ I'm always excited to work on interesting AI projects and research. Feel free to
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BK-dev1)
+[![Email](https://img.shields.io/badge/Email-belkabk5@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belkabk5@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-BK--dev1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BK-dev1)
 
 **"Artificial intelligence is the new electricity."** - Andrew Ng
 
-⭐️ From [BK-dev1](https://github.com/BK-dev1)
+⭐️ From [Belkacem Alileche](https://github.com/BK-dev1)
 
 </div>
 
@@ -115,6 +121,12 @@ I'm always excited to work on interesting AI projects and research. Feel free to
 
 ## 🔄 Recent Activity
 
-<!--START_SECTION:activity-->
-<!-- This section will automatically display your recent GitHub activity -->
-<!--END_SECTION:activity-->
+<!-- ACTIVITY:start -->
+<!-- ACTIVITY:end -->
+
+<!-- Alternative Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-gold.vercel.app/graph?username=BK-dev1&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Belkacem's Activity Graph" width="100%">
+</p>
+
+---
