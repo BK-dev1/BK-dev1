@@ -1,132 +1,54 @@
-# 👋 Hello, I'm Belkacem Alileche!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Belkacem Alileche
+========================================================================================================================================
 
-**`AI Engineering Student & Machine Learning Enthusiast`**
+AI Engineering Student
+----------------------
 
-[![Email](https://img.shields.io/badge/📧-Email-D14836?style=for-the-badge)](mailto:belkabk5@gmail.com)
-[![GitHub](https://img.shields.io/badge/💻-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BK-dev1)
+Hello! I'm a dedicated AI Engineering student at the National High School of Artificial Intelligence (ENSIA), Algeria, expecting to graduate in June 2028. I have a deep passion for building intelligent systems and machine learning solutions that solve real-world problems. My academic journey and hands-on projects have equipped me with a strong foundation in AI, machine learning, and software development.
 
----
+* 🌍  I'm based in Algeria
+* 🖥️  See my portfolio at [My Portfolio](http://abdelbari.netlify.app/)
+* ✉️  You can contact me at [belkabk5@gmail.com](mailto:belkabk5@gmail.com)
+* 🧠  I'm learning Machine Learning and Deep Learning
+* 🤝  I'm open to collaborating on AI and machine learning projects
 
-## 🧠 About Me
+### Skills
 
-I'm a passionate **third-year AI Engineering student** deeply fascinated by the intersection of machine learning, deep learning, and real-world applications. I'm on a mission to transform complex data into intelligent solutions that make a difference.
-
-**My AI Journey:**
-- 🎓 Currently pursuing my Bachelor's in Artificial Intelligence
-- 🔍 Researching cutting-edge ML techniques and their practical implementations
-- 🚀 Building intelligent systems that learn and adapt
-- 📚 Constantly exploring the latest advancements in AI research
-
----
-
-## 🤖 AI & ML Tech Stack
-
-### 🧮 Core Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-3776AB?style=for-the-badge&logo=xgboost&logoColor=white)
-
-### 🧠 Deep Learning Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-### 📊 Data Science & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### ☁️ ML Operations & Deployment
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E1?style=for-the-badge&logo=mlflow&logoColor=white)
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<!-- Primary Stats -->
-![Belkacem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BK-dev1&show_icons=true&theme=radical&hide_border=true)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BK-dev1&layout=compact&theme=radical&hide_border=true)
-
-<!-- Streak Stats as Backup -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=BK-dev1&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🔬 Current AI Projects & Research
-
-### 🎯 Active Research
-- **🧬 Neural Architecture Search** for optimized model design
-- **📊 Time Series Forecasting** using Transformer architectures
-- **🖼️ Computer Vision** applications in medical imaging
-- **📝 NLP** for sentiment analysis and text generation
-
-### 🔭 Academic Focus
-- **Deep Learning Architectures** (CNNs, RNNs, Transformers)
-- **Reinforcement Learning** algorithms and applications
-- **Explainable AI (XAI)** for model interpretability
-- **Federated Learning** for privacy-preserving ML
-
----
-
-## 📚 Learning Path
-
-### 🎓 Current Courses
-- Deep Learning Specialization
-- Natural Language Processing
-- ML System Design
-
-### 📖 Recent Studies
-- Machine Learning Theory
-- Neural Networks & Deep Learning
-- Pattern Recognition
-- Optimization Algorithms
-
----
-
-## 🤝 Let's Collaborate!
-
-I'm always excited to work on interesting AI projects and research. Feel free to reach out if you're working on:
-
-- 🤖 Machine Learning research
-- 🧠 Deep Learning applications
-- 📊 Data analysis projects
-- 🎯 AI competition teams
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-belkabk5@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belkabk5@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-BK--dev1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BK-dev1)
-
-**"Artificial intelligence is the new electricity."** - Andrew Ng
-
-⭐️ From [Belkacem Alileche](https://github.com/BK-dev1)
-
-</div>
-
----
-
-## 🔄 Recent Activity
-
-<!-- ACTIVITY:start -->
-<!-- ACTIVITY:end -->
-
-<!-- Alternative Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-gold.vercel.app/graph?username=BK-dev1&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Belkacem's Activity Graph" width="100%">
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
 
----
+### Socials
+
+<p align="left"> 
+<a href="https://www.github.com/BK-dev1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
+<a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+<a href="https://www.kaggle.com/yourprofile" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/kaggle-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/kaggle.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/kaggle.svg" width="32" height="32" /> </picture> </a>
+</p>
+
+### My GitHub Stats
+
+<a href="http://www.github.com/BK-dev1"><img src="https://github-readme-stats.vercel.app/api?username=BK-dev1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="BK-dev1's GitHub stats" /></a>
+
+<a href="http://www.github.com/BK-dev1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BK-dev1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/BK-dev1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BK-dev1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Featured Projects
+
+<div width="100%" align="center">
+<a href="https://github.com/BK-dev1/your-ai-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BK-dev1&repo=your-ai-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/BK-dev1/your-ml-project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BK-dev1&repo=your-ml-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
