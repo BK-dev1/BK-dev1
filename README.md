@@ -59,12 +59,4 @@ I'm an AI Engineering student at the **National Higher School of Artificial Inte
 
 ---
 
-## ☕ Support Me
-
-If you like my work, consider buying me a coffee:
-
-**☕ **[**https://buymeacoffee.com/belkacem**](https://buymeacoffee.com/belkacem)
-
----
-
 Thanks for visiting my profile! 🚀
