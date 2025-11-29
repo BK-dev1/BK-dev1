@@ -6,8 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an AI Engineering student at the **National Higher School of Artificial Intelligence (ENSIA)** in Algeria, graduating in **June 2028**.
-I specialize in building **intelligent systems**, **machine learning models**, and **full‑stack applications** that solve real‑world problems.
+I'm an AI Engineering student at the **National Higher School of Artificial Intelligence (ENSIA)** in Algeria, graduating in **July**** 2028**. I specialize in building **intelligent systems**, **machine learning models**, and **full‑stack applications** that solve real‑world problems.
 
 * 🌍 Based in **Algeria**
 * ✉️ Email: **[belkabk5@gmail.com](mailto:belkabk5@gmail.com)**
@@ -44,29 +43,27 @@ I specialize in building **intelligent systems**, **machine learning models**, a
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BK-dev1\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BK-dev1\&layout=compact\&theme=tokyonight)
-
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 **AI‑Nutrify** — AI‑powered meal planning system
+### 🔹 **NutriSmartDZ** — AI‑powered meal planner
 
-* Nutrition analysis, recipe scoring, ML‑based meal generation
-* Stack: React, FastAPI, PostgreSQL
+* Intelligent meal planning using AI and nutritional optimization
+* Stack: React, FastAPI, PostgreSQL, ML
 
-### 🔹 **Smart Attendance System**
+### 🔹 **Tissoura** — Inventory Management & Optimization System
 
-* Face recognition + automated attendance pipeline
-* Stack: Python, OpenCV, ML
+* Inventory tracking, demand forecasting, and optimization using AI
+* Stack: Flutter, Python, ML
 
-### 🔹 **Portfolio Generator**
+---
 
-* Fully customizable portfolio builder with themes
-* Stack: React, CSS, Node.js
+## ☕ Support Me
+
+If you like my work, consider buying me a coffee:
+
+**☕ **[**https://buymeacoffee.com/belkacem**](https://buymeacoffee.com/belkacem)
 
 ---
 
