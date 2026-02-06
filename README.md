@@ -45,7 +45,7 @@ I'm an AI Engineering student at the **National Higher School of Artificial Inte
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🔹 **NutriSmartDZ** — AI‑powered meal planner
 
@@ -57,6 +57,15 @@ I'm an AI Engineering student at the **National Higher School of Artificial Inte
 * Inventory tracking, demand forecasting, and optimization using AI
 * Stack: Flutter, Python, ML
 
+### 🔹 **Quizya** — Smart Quizz App, with Real-Time Proctoring and Cheating Detection
+
+* Create/Update exams for teachers, take exams for students with real time cheating detection
+* Features coming: Lecture/Tutorial/Lab  Attendance Tracking
+* Stack: NextJS, PostgreSQL.
+* Link: https://quizya.vercel.app/ 
+
+
+
 ---
 
-Thanks for visiting my profile! 🚀
+Thanks for visiting my profile! 
