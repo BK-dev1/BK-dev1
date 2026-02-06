@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an AI Engineering student at the **National Higher School of Artificial Intelligence (ENSIA)** in Algeria, graduating in **July**** 2028**. I specialize in building **intelligent systems**, **machine learning models**, and **full‑stack applications** that solve real‑world problems.
+I'm an AI Engineering student at the **National Higher School of Artificial Intelligence (ENSIA)** in Algeria, graduating in **July** **2028**. I specialize in building **intelligent systems**, **machine learning models**, and **full‑stack applications** that solve real‑world problems.
 
 * 🌍 Based in **Algeria**
 * ✉️ Email: **[belkabk5@gmail.com](mailto:belkabk5@gmail.com)**
